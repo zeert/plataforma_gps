@@ -37,6 +37,11 @@ Route::get('/', function()
 	return View::make('home.index');
 });
 
+Route::get('dashboard', function()
+{
+	return View::make('home.dashboard');
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application 404 & 500 Error Handlers

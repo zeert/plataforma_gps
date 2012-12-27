@@ -167,22 +167,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "application/config/application.php",
-			"settings":
-			{
-				"buffer_size": 6665,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/views/home/index.blade.php",
-			"settings":
-			{
-				"buffer_size": 2759,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -190,6 +174,14 @@
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
 			[
 				"fet",
 				"Fetch: Package"
@@ -209,10 +201,6 @@
 			[
 				"file",
 				"FileDiffs: Menu"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"laravel cotro",
@@ -280,6 +268,8 @@
 	},
 	"file_history":
 	[
+		"/Users/reyz/Google Drive/MAMP/htdocs/plataforma_gps/application/config/application.php",
+		"/Users/reyz/Google Drive/MAMP/htdocs/plataforma_gps/application/views/home/index.blade.php",
 		"/Users/reyz/Google Drive/MAMP/htdocs/plataforma_gps/public/index.php",
 		"/Users/reyz/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
 		"/Users/reyz/Google Drive/MAMP/htdocs/gps_maqueta/test.php",
@@ -405,9 +395,7 @@
 		"/Users/reyz/Google Drive/MAMP/htdocs/clientes/user_guide/userguide.css",
 		"/Users/reyz/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
 		"/Users/reyz/Desktop/test.php",
-		"/Users/reyz/Desktop/index.html",
-		"/Users/reyz/Desktop/dabblet.html",
-		"/Users/reyz/Desktop/dabblet.css"
+		"/Users/reyz/Desktop/index.html"
 	],
 	"find":
 	{
@@ -457,70 +445,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "application/config/application.php",
-					"settings":
-					{
-						"buffer_size": 6665,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1716,
-								1716
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 112.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "application/views/home/index.blade.php",
-					"settings":
-					{
-						"buffer_size": 2759,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1251,
-								1251
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

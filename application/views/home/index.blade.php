@@ -1,4 +1,4 @@
-<!doctype html>
+  <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -60,6 +60,9 @@
 
     <div class="container">
 
+
+
+
       <form class="form-signin">
         <h2 class="form-signin-heading">Plataforma de Gestion GPS</h2>
         <input type="text" class="input-block-level" placeholder="Direccon Email">
@@ -69,7 +72,6 @@
         </label>
         <button class="btn btn-large btn-primary" type="submit">Ingresar</button>
       </form>
-
     </div> <!-- /container -->	
 
     <!-- Librerias JS -->
