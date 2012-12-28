@@ -56,7 +56,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="index-2.html">Simplenso</a>
+      <a class="brand" href="index-2.html">Zetalabs</a>
       <div class="btn-group pull-right">
         <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
           <i class="icon-user"></i> John Doe
@@ -808,7 +808,7 @@
                                 </td>
                             </tr>
                           </tbody>
-                      </table>            
+                      </table>
                   </div>
               </div>
             </div><!--/span-->
@@ -819,7 +819,7 @@
   </div><!--/row-->
 
   <footer>
-    <p>&copy; Simplenso 2012</p>
+    <p>&copy; Zetalabs 2012</p>
   </footer>
     <div id="box-config-modal" class="modal hide fade in" style="display: none;">
       <div class="modal-header">
